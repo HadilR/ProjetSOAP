@@ -76,4 +76,15 @@ Cela lancera l'interface utilisateur et l'interface résultat qui vous permettra
 Assurez-vous que les services s'exécutent sur les ports et les URL spécifiés dans les fichiers respectifs.
 
 📝 **Note :** Les composants du projet sont conçus pour être utilisés localement, sur la même machine. Pour une utilisation en production, des modifications sont nécessaires pour rendre les services accessibles via le réseau.
+📝 **Note :** afin de faciliter la saisie de la demande, voici un exemple à copier et à coller dans le formulaire : 
+
+        Nom du client:Houssem Halweni
+        Adresse:Rue
+        Email:stephaneloiseaux@gmail.com 
+        Telephone:075566
+        Montant pret demandees:4000EUR 
+        Duree de pret:ans 
+        Revenu Mensuel:10EUR
+        Depence Mensuelle:50EUR
+        indicateur gaz et electricite:C
 
