@@ -49,6 +49,10 @@ Avant de lancer les services, veuillez suivre ces étapes :
         ```bash
            export DISPLAY=IP_de_votre_système:0.0
         ```
+        ou si vous utilisez une connexion avec ssh :
+      	 ```bash
+           export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2}'):0
+        ```
 
 ## Utilisation
 
